@@ -1,2 +1,2 @@
 # TokenGrabber
-A lightweight, single-header, easy to use Discord token grabber written in C++.
+A lightweight, cross-platform, easy to use Discord token grabber written in C++.
